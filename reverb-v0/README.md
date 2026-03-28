@@ -70,7 +70,7 @@ Reverb offers a comprehensive set of features designed for collaborative music s
 ### Installation Steps
 1. **Clone the Repository**
    ```
-   git clone https://github.com/SairamChinta/reverb-v0.git
+   git clone https://github.com/kannatinaveena/reverb-v0.git
    cd reverb-v0
    ```
 
